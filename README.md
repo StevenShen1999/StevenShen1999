@@ -1,5 +1,5 @@
 # Hello
-Hello there, I am Steven, a final year CS student and backend engineer.
+Hello there, I am Steven, nice to meet you :)
 
 I prefer not to code in:
 * C (the pointers argh) 
